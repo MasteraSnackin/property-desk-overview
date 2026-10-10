@@ -1,0 +1,90 @@
+#street-map {
+  height: 480px;
+  width: 100%;
+  min-width: 0;
+  border: 1px solid var(--line, #d8e0d9);
+  border-radius: 8px;
+  background: #e8ede6;
+  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  isolation: isolate;
+}
+#street-map.property-map-unavailable { height: 120px; }
+#street-map .leaflet-control-attribution {
+  max-width: calc(100% - 14px);
+  padding: 3px 7px;
+  color: #19372f;
+  background: rgba(255, 255, 255, .94);
+  font-size: 11px;
+  line-height: 1.5;
+}
+#street-map .leaflet-control-attribution a { color: #21624e; }
+#street-map .leaflet-control-zoom a { color: #19372f; }
+#street-map .leaflet-control a:focus-visible,
+#street-map .leaflet-popup-close-button:focus-visible,
+#street-map .property-map-pin:focus-visible,
+#street-map .property-map-popup-button:focus-visible {
+  outline: 3px solid #0b3827;
+  outline-offset: 4px;
+  box-shadow: 0 0 0 7px rgba(255, 255, 255, .95);
+}
+#street-map .property-map-pin {
+  display: grid;
+  place-items: center;
+  box-sizing: border-box;
+  border: 2px solid white;
+  border-radius: 8px 8px 8px 0;
+  background: #21624e;
+  color: #fff;
+  box-shadow: 0 2px 7px rgba(18, 43, 31, .3);
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  cursor: pointer;
+}
+#street-map .property-map-pin-selected {
+  outline: 3px solid #19372f;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 7px rgba(255, 255, 255, .95);
+}
+#street-map .property-map-popup-shell .leaflet-popup-content-wrapper {
+  border-radius: 9px;
+  color: #19372f;
+  box-shadow: 0 4px 22px rgba(18, 43, 31, .2);
+}
+#street-map .property-map-popup-shell .leaflet-popup-content {
+  margin: 14px 16px;
+  max-width: 250px;
+  overflow-wrap: anywhere;
+}
+#street-map .property-map-popup h3 {
+  margin: 0 20px 6px 0;
+  color: #21624e;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  line-height: 1.5;
+}
+#street-map .property-map-popup p { margin: 8px 0; line-height: 1.5; }
+#street-map .property-map-popup-address { font-size: 15px; font-weight: 650; }
+#street-map .property-map-popup-scope {
+  color: #596b65;
+  font-size: 12px;
+}
+#street-map .property-map-popup-button {
+  margin-top: 4px;
+  min-height: 44px;
+  padding: 9px 12px;
+  border: 1px solid #21624e;
+  border-radius: 5px;
+  background: #21624e;
+  color: #fff;
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+#street-map .property-map-popup-button:hover { background: #19372f; }
+@media (max-width: 720px) {
+  #street-map { height: 360px; }
+  #street-map .property-map-popup-shell .leaflet-popup-content { margin: 14px 16px; }
+}

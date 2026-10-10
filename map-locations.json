@@ -1,0 +1,159 @@
+{
+  "mode": "demo",
+  "label": "Demo locations around central London",
+  "verified_location_count": 0,
+  "tile_url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "attribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\" rel=\"noopener\">OpenStreetMap</a> contributors",
+  "locations": {
+    "002": {
+      "kind": "demo",
+      "latitude": 51.5259,
+      "longitude": -0.1542,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "005": {
+      "kind": "demo",
+      "latitude": 51.527,
+      "longitude": -0.1376,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "006": {
+      "kind": "demo",
+      "latitude": 51.5281,
+      "longitude": -0.1238,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "008": {
+      "kind": "demo",
+      "latitude": 51.52645,
+      "longitude": -0.1072,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "013": {
+      "kind": "demo",
+      "latitude": 51.52755,
+      "longitude": -0.0934,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "016": {
+      "kind": "demo",
+      "latitude": 51.5189,
+      "longitude": -0.1518,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "017": {
+      "kind": "demo",
+      "latitude": 51.52,
+      "longitude": -0.138,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "018": {
+      "kind": "demo",
+      "latitude": 51.5211,
+      "longitude": -0.1242,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "019": {
+      "kind": "demo",
+      "latitude": 51.51945,
+      "longitude": -0.1076,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "020": {
+      "kind": "demo",
+      "latitude": 51.52055,
+      "longitude": -0.0938,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "021": {
+      "kind": "demo",
+      "latitude": 51.5119,
+      "longitude": -0.1522,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "023": {
+      "kind": "demo",
+      "latitude": 51.513,
+      "longitude": -0.1384,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "025": {
+      "kind": "demo",
+      "latitude": 51.5141,
+      "longitude": -0.1218,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "027": {
+      "kind": "demo",
+      "latitude": 51.51245,
+      "longitude": -0.108,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "028": {
+      "kind": "demo",
+      "latitude": 51.51355,
+      "longitude": -0.0942,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "031": {
+      "kind": "demo",
+      "latitude": 51.5049,
+      "longitude": -0.1526,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "034": {
+      "kind": "demo",
+      "latitude": 51.506,
+      "longitude": -0.1388,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "036": {
+      "kind": "demo",
+      "latitude": 51.5071,
+      "longitude": -0.1222,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "038": {
+      "kind": "demo",
+      "latitude": 51.50545,
+      "longitude": -0.1084,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "041": {
+      "kind": "demo",
+      "latitude": 51.50655,
+      "longitude": -0.0918,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "043": {
+      "kind": "demo",
+      "latitude": 51.4979,
+      "longitude": -0.153,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "045": {
+      "kind": "demo",
+      "latitude": 51.499,
+      "longitude": -0.1392,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "047": {
+      "kind": "demo",
+      "latitude": 51.5001,
+      "longitude": -0.1226,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "048": {
+      "kind": "demo",
+      "latitude": 51.49845,
+      "longitude": -0.1088,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    },
+    "049": {
+      "kind": "demo",
+      "latitude": 51.49955,
+      "longitude": -0.0922,
+      "provenance": "Invented display position around central London, authorised for this demo. Not geocoded or a known location of this synthetic property."
+    }
+  }
+}

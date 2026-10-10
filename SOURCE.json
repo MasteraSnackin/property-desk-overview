@@ -1,0 +1,68 @@
+{
+  "source_repository": "https://github.com/MasteraSnackin/hackathon-valley",
+  "source_commit": "ecafbc51a260166509bbb93b5545e2ade4dce375",
+  "source_directory": "docs/property-overview",
+  "files": [
+    {
+      "path": "index.html",
+      "source_sha256": "136b3de6db4375c6ef466c329d64ed7abefba1ba04ed973c3c260e2f32992370",
+      "published_sha256": "db7b14c53104bb2fd81fb6167f6d59443b4d43b09b5e03e5c642dfcff67822ea"
+    },
+    {
+      "path": "overview.js",
+      "source_sha256": "9bf42b772c36e11b141f0e700079969e474bc603c9c970eee6020406caf270c8",
+      "published_sha256": "9bf42b772c36e11b141f0e700079969e474bc603c9c970eee6020406caf270c8"
+    },
+    {
+      "path": "overview.css",
+      "source_sha256": "39bd91f429be3a9a4164a71247fdc4036bcf728ae6728c0f90d027326bfab534",
+      "published_sha256": "39bd91f429be3a9a4164a71247fdc4036bcf728ae6728c0f90d027326bfab534"
+    },
+    {
+      "path": "map-view.js",
+      "source_sha256": "d368f1a16ccde1d1796459a0e6d1423f048d7ff610e045913c1f09f05e35e820",
+      "published_sha256": "d368f1a16ccde1d1796459a0e6d1423f048d7ff610e045913c1f09f05e35e820"
+    },
+    {
+      "path": "map-view.css",
+      "source_sha256": "02a936eedace43b6f723ab72dd03df89fbb30bbfb0c81d22bed46932a5375af5",
+      "published_sha256": "02a936eedace43b6f723ab72dd03df89fbb30bbfb0c81d22bed46932a5375af5"
+    },
+    {
+      "path": "map-locations.json",
+      "source_sha256": "083a93d3d7afbba1fbfbc0ad6eadbf64765c7a3c45d75daf5e2299973da499f8",
+      "published_sha256": "083a93d3d7afbba1fbfbc0ad6eadbf64765c7a3c45d75daf5e2299973da499f8"
+    },
+    {
+      "path": "property-inventory.json",
+      "source_sha256": "c47535deb44f22144317ed81c00641351e900fd749b9fa5319b39f8fa408e25a",
+      "published_sha256": "c47535deb44f22144317ed81c00641351e900fd749b9fa5319b39f8fa408e25a"
+    },
+    {
+      "path": "property-issues.csv",
+      "source_sha256": "e9c187ecf5fa8d2ba5c4fefa4d57fd061351c7a270cc6266c67900fa4bc4b1e7",
+      "published_sha256": "e9c187ecf5fa8d2ba5c4fefa4d57fd061351c7a270cc6266c67900fa4bc4b1e7"
+    },
+    {
+      "path": "vendor/leaflet/leaflet.js",
+      "source_sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a",
+      "published_sha256": "db49d009c841f5ca34a888c96511ae936fd9f5533e90d8b2c4d57596f4e5641a"
+    },
+    {
+      "path": "vendor/leaflet/leaflet.css",
+      "source_sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6",
+      "published_sha256": "a7837102824184820dfa198d1ebcd109ff6d0ff9a2672a074b9a1b4d147d04c6"
+    },
+    {
+      "path": "vendor/leaflet/LICENSE",
+      "source_sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb",
+      "published_sha256": "53e8dc25862014e4324741ca18fbe3611e11d42ef69f59f86ea8c5389647d4cb"
+    },
+    {
+      "path": "vendor/leaflet/sources.json",
+      "source_sha256": "004160d8d3f00cff0a7fa0e1781085274a6faea48ff1f35b1b3b509a712e0e7a",
+      "published_sha256": "004160d8d3f00cff0a7fa0e1781085274a6faea48ff1f35b1b3b509a712e0e7a"
+    }
+  ],
+  "standalone_change": "Added restrictive Content-Security-Policy meta tag to index.html; runtime data and scripts otherwise unchanged."
+}
